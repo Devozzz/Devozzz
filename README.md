@@ -29,34 +29,58 @@ Dashboards, management systems and custom business workflows.
 
 ## 🛠️ Our Stack
 
-**Frontend**
+<table>
+<tr>
+<td width="25%" align="center">
 
-* React
-* Vite
-* Tailwind CSS
+### 🎨 Frontend
 
-**Backend**
+React  
+Vite  
+Tailwind CSS
 
-* Node.js
-* Express.js
-* REST APIs
+</td>
 
-**Mobile**
+<td width="25%" align="center">
 
-* React Native
-* Expo
+### ⚙️ Backend
 
-**Database**
+Node.js  
+Express.js  
+REST APIs
 
-* MongoDB
-* SQL / PostgreSQL
+</td>
 
-**Tools & Deployment**
+<td width="25%" align="center">
 
-* Git & GitHub
-* Vercel
-* Render
+### 📱 Mobile
 
+React Native  
+Expo
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ Database
+
+MongoDB  
+PostgreSQL  
+SQL
+
+</td>
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+### 🚀 Tools & Deployment
+
+Git · GitHub · Vercel · Render
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🌟 What We Focus On
